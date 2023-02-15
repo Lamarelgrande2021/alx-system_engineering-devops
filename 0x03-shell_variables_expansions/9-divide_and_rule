@@ -1,2 +1,2 @@
-#!/bin/bashec
+#!/bin/bash
 echo $(($POWER / $DIVIDE))
